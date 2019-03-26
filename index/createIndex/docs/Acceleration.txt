@@ -1,0 +1,227 @@
+Acceleration
+
+
+in physics acceleration is the rate of change of velocity of an object with respect to time an objects acceleration is the net result of all forces acting on the object as described by newtons second law1 the si unit for acceleration is metre per second squared m s2 accelerations are vector quantities they have magnitude and direction and add according to the parallelogram law23 the vector of the net force acting on a body has the same direction as the vector of the bodys acceleration and its magnitude is proportional to the magnitude of the acceleration with the objects mass a scalar quantity as proportionality constant
+
+for example when a car starts from a standstill zero velocity in an inertial frame of reference and travels in a straight line at increasing speeds it is accelerating in the direction of travel if the car turns an acceleration occurs toward the new direction the forward acceleration of the car is called a linear or tangential acceleration the reaction to which passengers in the car experience as a force pushing them back into their seats when changing direction this is  called radial as orthogonal to tangential acceleration the reaction to which passengers experience as a sideways force if the speed of the car decreases this is an acceleration in the opposite direction of the velocity of the vehicle sometimes called deceleration4 passengers experience the reaction to deceleration as a force pushing them forwards both acceleration and deceleration are treated the same they are both changes in velocity each of these accelerations tangential radial deceleration is felt by passengers until their velocity speed and direction matches that of the uniformly moving car
+
+an objects average acceleration over a period of time is its change in velocity 
+
+
+
+
+δ
+
+v
+
+
+
+
+displaystyle delta mathbf v 
+
+ divided by the duration of the period 
+
+
+
+
+δ
+t
+
+
+
+displaystyle delta t
+
+ mathematically
+
+instantaneous acceleration meanwhile is the limit of the average acceleration over an infinitesimal interval of time in the terms of calculus instantaneous acceleration is the derivative of the velocity vector with respect to time
+
+here and elsewhere if motion is in a straight line vector quantities can be substituted by scalars in the equations
+
+it can be seen that the integral of the acceleration function at is the velocity function vt that is the area under the curve of an acceleration vs time a vs t graph corresponds to velocity
+
+as acceleration is defined as the derivative of velocity v with respect to time t and velocity is defined as the derivative of position x with respect to time acceleration can be thought of as the second derivative of x with respect to t
+
+acceleration has the dimensions of velocity lt divided by time ie lt2 the si unit of acceleration is the metre per second squared m s2 or metre per second per second as the velocity in metres per second changes by the acceleration value every second
+
+an object moving in a circular motionsuch as a satellite orbiting the earthis accelerating due to the change of direction of motion although its speed may be constant in this case it is said to be undergoing centripetal directed towards the center acceleration
+
+proper acceleration the acceleration of a body relative to a free-fall condition is measured by an instrument called an accelerometer
+
+in classical mechanics for a body with constant mass the vector acceleration of the bodys center of mass is proportional to the net force vector ie sum of all forces acting on it newtons second law
+
+where f is the net force acting on the body m is  the mass of the body and a is the center-of-mass acceleration as speeds approach the speed of light relativistic effects become increasingly large
+
+the velocity of a particle moving on a curved path as a function of time can be written as
+
+with vt equal to the speed of travel along the path and
+
+a unit vector tangent to the path pointing in the direction of motion at the chosen moment in time taking into account both the changing speed vt and the changing direction of ut the acceleration of a particle moving on a curved path can be written using the chain rule of differentiation5 for the product of two functions of time as
+
+where un is the  unit inward normal vector to the particles trajectory also called the principal normal and r is its instantaneous radius of curvature based upon the osculating circle at time t these components are called the tangential acceleration and the normal or radial acceleration or centripetal acceleration in circular motion see also circular motion and centripetal force
+
+geometrical analysis of three-dimensional space curves which explains tangent principal normal and binormal is described by the frenetserret formulas67
+
+uniform or constant acceleration is a type of motion in which the velocity of an object changes by an equal amount in every equal time period
+
+a frequently cited example of uniform acceleration is that of an object in free fall in a uniform gravitational field the acceleration of a falling body in the absence of resistances to motion is dependent only on the gravitational field strength g also called acceleration due to gravity by newtons second law the force f acting on a body is given by
+
+because of the simple analytic properties of the case of constant acceleration there are simple formulas relating the displacement initial and time-dependent velocities and acceleration to the time elapsed8
+
+where
+
+in particular the motion can be resolved into two orthogonal parts one of constant velocity and the other according to the above equations  as galileo showed the net result is parabolic motion which describes e g the trajectory of a projectile in a vacuum near the surface of earth9
+
+in uniform circular motion that is moving with constant speed along a circular path a particle experiences an acceleration resulting from the change of the direction of the velocity vector while its magnitude remains constant the derivative of the location of a point on a curve with respect to time ie its velocity turns out to be always exactly tangential to the curve respectively orthogonal to the radius in this point since in uniform motion the velocity in the tangential direction does not change the acceleration must be in radial direction pointing to the center of the circle this acceleration constantly changes the direction of the velocity to be tangent in the neighboring point thereby rotating the velocity vector along the circle for a given speed 
+
+
+
+v
+
+
+displaystyle v
+
+ the magnitude of this geometrically caused acceleration is inversely proportional to the radius 
+
+
+
+r
+
+
+displaystyle r
+
+ of the circle and increases as the square of this speed
+
+expressing this vector in polar components where 
+
+
+
+
+r
+
+
+
+displaystyle mathbf r 
+
+ is a vector from the centre of the circle to the particle with magnitude equal to this distance and considering the orientation of the acceleration towards the center yields
+
+as usual in rotations the speed 
+
+
+
+v
+
+
+displaystyle v
+
+ of a particle may be expressed as an angular speed with respect to a point at the distance 
+
+
+
+r
+
+
+displaystyle r
+
+ as
+
+thus 
+
+
+
+
+a
+
+
+
+
+ω
+
+2
+
+
+
+r
+
+
+
+
+
+displaystyle mathbf a -omega 2mathbf r 
+
+
+
+this acceleration and the mass of the particle determine the necessary centripetal force directed toward the centre of the circle as the net force acting on this particle to keep it in this uniform circular motion the so-called centrifugal force appearing to act outward on the body is a so called pseudo force experienced in the frame of reference of the body in circular motion due to the bodys linear momentum a vector tangent to the circle of motion
+
+in a nonuniform circular motion ie the speed along the curved path is changing the acceleration has a non-zero component tangential to the curve and is not confined to the principal normal which directs to the center of the osculating circle that determines the radius 
+
+
+
+r
+
+
+displaystyle r
+
+ for the centripetal acceleration the tangential component is given by the angular acceleration 
+
+
+
+α
+
+
+displaystyle alpha 
+
+ ie the rate of change 
+
+
+
+α
+
+
+
+
+ω
+
+
+
+
+
+
+displaystyle alpha dot omega 
+
+ of the angular speed 
+
+
+
+ω
+
+
+displaystyle omega 
+
+ times the radius 
+
+
+
+r
+
+
+displaystyle r
+
+ that is
+
+the sign of the tangential component of the acceleration is determined by the sign of the angular acceleration 
+
+
+
+α
+
+
+displaystyle alpha 
+
+ and the tangent is of course always directed at right angles to the radius vector
+
+the special theory of relativity describes the behavior of objects traveling relative to other objects at speeds approaching that of light in a vacuum newtonian mechanics is exactly revealed to be an approximation to reality valid to great accuracy at lower speeds as the relevant speeds increase toward the speed of light acceleration no longer follows classical equations
+
+as speeds approach that of light the acceleration produced by a given force decreases becoming infinitesimally small as light speed is approached an object with mass can approach this speed asymptotically but never reach it
+
+unless the state of motion of an object is known it is impossible to distinguish whether an observed force is due to gravity or to accelerationgravity and inertial acceleration have identical effects albert einstein called this the equivalence principle and said that only observers who feel no force at allincluding the force of gravityare justified in concluding that they are not accelerating10
+

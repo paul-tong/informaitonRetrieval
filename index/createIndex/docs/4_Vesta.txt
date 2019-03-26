@@ -1,0 +1,128 @@
+4_Vesta
+
+
+vesta minor-planet designation 4 vesta is one of the largest objects in the asteroid belt with a mean diameter of 525 kilometres 326 mi7 it was discovered by the german astronomer heinrich wilhelm olbers on 29 march 18075 and is named after vesta the virgin goddess of home and hearth from roman mythology
+
+vesta is the second-most-massive and second-largest body in the asteroid belt after the dwarf planet ceres161718 and it contributes an estimated 9 of the mass of the asteroid belt19
+it is slightly larger than pallas20 though significantly more massive vesta is the only known remaining rocky protoplanet with a differentiated interior of the kind that formed the terrestrial planets212223 numerous fragments of vesta were ejected by collisions one and two billion years ago that left two enormous craters occupying much of vestas southern hemisphere2425 debris from these events has fallen to earth as howarditeeucritediogenite hed meteorites which have been a rich source of information about vesta262728
+
+vesta is the brightest asteroid visible from earth its maximum distance from the sun is slightly greater than the minimum distance of ceres from the sunc though its orbit lies entirely within that of ceres29
+
+nasas dawn spacecraft entered orbit around vesta on 16 july 2011 for a one-year exploration and left orbit on 5 september 201230 en route to its final destination ceres researchers continue to examine data collected by dawn for additional insights into the formation and history of vesta3132
+
+heinrich olbers discovered pallas in 1802 the year after the discovery of ceres he proposed that the two objects were the remnants of a destroyed planet he sent a letter with his proposal to the english astronomer william herschel suggesting that a search near the locations where the orbits of ceres and pallas intersected might reveal more fragments these orbital intersections were located in the constellations of cetus and virgo33 olbers commenced his search in 1802 and on 29 march 1807 he discovered vesta in the constellation virgoa coincidence because ceres pallas and vesta are not fragments of a larger body because the asteroid juno had been discovered in 1804 this made vesta the fourth object to be identified in the region that is now known as the asteroid belt the discovery was announced in a letter addressed to german astronomer johann h schröter dated 31 march34 because olbers already had credit for discovering a planet pallas at the time the asteroids were considered to be planets he gave the honor of naming his new discovery to german mathematician carl friedrich gauss whose orbital calculations had enabled astronomers to confirm the existence of ceres the first asteroid and who had computed the orbit of the new planet in the remarkably short time of 10 hours3536 gauss decided on the roman virgin goddess of home and hearth vesta37
+
+vesta was the fourth asteroid to be discovered hence the number 4 in its formal designation the name vesta or national variants thereof is in international use with two exceptions greece and china in greek the name adopted was the hellenic equivalent of vesta hestia 4 εστία in english that name is used for 46 hestia greeks use the name hestia for both with the minor-planet numbers used for disambiguation in chinese vesta is called the hearth-goddess star 灶神星 zàoshénxīng naming the asteroid for vestas role rather than literally transliterating her name into chinese as is done with other bodies discovered in modern times including uranus neptune and plutod
+
+upon its discovery vesta was like ceres pallas and juno before it classified as a planet and given a planetary symbol the symbol representing the altar of vesta with its sacred fire and was designed by gauss3839 in gausss conception this was drawn  in its modern form it is e
+
+after the discovery of vesta no further objects were discovered for 38 years and the solar system was thought to have eleven planets42 however in 1845 new asteroids started being discovered at a rapid pace and by 1851 there were fifteen each with its own symbol in addition to the eight major planets neptune had been discovered in 1846 it soon became clear that it would be impractical to continue inventing new planetary symbols indefinitely and some of the existing ones proved difficult to draw quickly that year the problem was addressed by benjamin apthorp gould who suggested numbering asteroids in their order of discovery and placing this number in a disk circle as the generic symbol of an asteroid thus the fourth asteroid vesta acquired the generic symbol ④ this was soon coupled with the name into an official numbername designation ④ vesta as the number of minor planets increased by 1858 the circle had been simplified to parentheses 4 vesta which were easier to typeset other punctuation such as 4 vesta and 4 vesta was also used but had more or less completely died out by 194943 today either vesta or more commonly 4 vesta is used
+
+photometric observations of vesta were made at the harvard college observatory in 18801882 and at the observatoire de toulouse in 1909 these and other observations allowed the rotation rate of vesta to be determined by the 1950s however the early estimates of the rotation rate came into question because the light curve included variations in both shape and albedo45
+
+early estimates of the diameter of vesta ranged from 383 in 1825 to 7005444000000000000444 km ec pickering produced an estimated diameter of 700551300000000000051317 km in 1879 which is close to the modern value for the mean diameter but the subsequent estimates ranged from a low of 7005390000000000000390 km up to a high of 7005602000000000000602 km during the next century the measured estimates were based on photometry in 1989 speckle interferometry was used to measure a dimension that varied between 498 and 7005548000000000000548 km during the rotational period46 in 1991 an occultation of the star sao 93228 by vesta was observed from multiple locations in the eastern united states and canada based on observations from 14 different sites the best fit to the data was an elliptical profile with dimensions of about 7005550000000000000550 km  7005462000000000000462 km47 dawn confirmed this measurement
+
+vesta became the first asteroid to have its mass determined every 18 years the asteroid 197 arete approaches within 7009598391482800000004 au of vesta in 1966 based upon observations of vestas gravitational perturbations of arete hans g hertz estimated the mass of vesta as 69901200000000000001200081010 solar masses48 more refined estimates followed and in 2001 the perturbations of 17 thetis were used to estimate the mass of vesta as 69901310000000000001310021010 solar masses49
+
+vesta orbits the sun between mars and jupiter within the asteroid belt with a period of 36 earth years5 specifically in the inner asteroid belt interior to the kirkwood gap at 250 au its orbit is moderately inclined i  71 compared to 7 for mercury and 17 for pluto and moderately eccentric e  009 about the same as for mars5
+
+true orbital resonances between asteroids are considered unlikely due to their small masses relative to their large separations such relationships should be very rare50 nevertheless vesta is able to capture other asteroids into temporary 11 resonant orbital relationships for periods up to 2 million years or more about forty such objects have been identified51 decameter-sized objects detected in the vicinity of vesta by dawn may be such quasi-satellites rather than proper satellites51
+
+vestas rotation is relatively fast for an asteroid 5342 h and prograde with the north pole pointing in the direction of right ascension 20 h 32 min declination 48 in the constellation cygnus with an uncertainty of about 10 this gives an axial tilt of 2952
+
+there are two longitudinal coordinate systems in use for vesta with prime meridians separated by 150 the iau established a coordinate system in 1997 based on hubble photos with the prime meridian running through the center of olbers regio a dark feature 200 km across when dawn arrived at vesta mission scientists found that the location of the pole assumed by the iau was off by 10 so that the iau coordinate system drifted across the surface of vesta at 006 per year and also that olbers regio was not discernible from up close and so was not adequate to define the prime meridian with the precision they needed they corrected the pole but also established a new prime meridian 4 from the center of claudia a sharply defined crater 700 meters across which they say results in a more logical set of mapping quadrangles53 all nasa publications including images and maps of vesta use the claudian meridian which is unacceptable to the iau the iau working group on cartographic coordinates and rotational elements recommended a coordinate system correcting the pole but rotating the claudian longitude by 150 to coincide with olbers regio54 it was accepted by the iau though it disrupts the maps prepared by the dawn team which had been positioned so they would not bisect any major surface features5355
+
+vesta is the second-most-massive body in the asteroid belt57 though only 28 as massive as ceres19 vestas density is lower than those of the four terrestrial planets but higher than that of most asteroids and all of the moons in the solar system except io vestas surface area is about the same as that of pakistan about 800000 square kilometersf it has a differentiated interior21 vesta is only slightly larger 7005525400000000000525402 km7 than 2 pallas 70055120000000000005123 km in volume20 but is about 25 more massive
+
+vestas shape is close to a gravitationally relaxed oblate spheroid52 but the large concavity and protrusion at the southern pole see surface features below combined with a mass less than 702050000000000000051020 kg precluded vesta from automatically being considered a dwarf planet under international astronomical union iau resolution xxvi 558 a 2012 analysis of vestas shape59 and gravity field using data gathered by the dawn spacecraft has shown that vesta is currently not in hydrostatic equilibrium6061
+
+temperatures on the surface have been estimated to lie between about 20 c with the sun overhead dropping to about 190 c at the winter pole typical daytime and nighttime temperatures are 60 c and 130 c respectively this estimate is for 6 may 1996 very close to perihelion although details vary somewhat with the seasons13
+
+prior to the arrival of the dawn spacecraft some vestan surface features had already been resolved using the hubble space telescope and ground-based telescopes eg the keck observatory66 the arrival of dawn in july 2011 revealed the complex surface of vesta in detail67
+
+the most prominent of these surface features are two enormous craters the 500-kilometre 311 mi-wide rheasilvia crater centered near the south pole and the 400 kilometres 249 mi wide veneneia crater the rheasilvia crater is younger and overlies the veneneia crater68 the dawn science team named the younger more prominent crater rheasilvia after the mother of romulus and remus and a mythical vestal virgin69 its width is 95 of the mean diameter of vesta the crater is about 19 kilometres 12 mi deep a central peak rises 23 km above the lowest measured part of the crater floor and the highest measured part of the crater rim is 31 km above the crater floor low point it is estimated that the impact responsible excavated about 1 of the volume of vesta and it is likely that the vesta family and v-type asteroids are the products of this collision if this is the case then the fact that 10-km fragments have survived bombardment until the present indicates that the crater is at most only about 1 billion years old70 it would also be the site of origin of the hed meteorites all the known v-type asteroids taken together account for only about 6 of the ejected volume with the rest presumably either in small fragments ejected by approaching the 31 kirkwood gap or perturbed away by the yarkovsky effect or radiation pressure spectroscopic analyses of the hubble images have shown that this crater has penetrated deep through several distinct layers of the crust and possibly into the mantle as indicated by spectral signatures of olivine52
+
+the large peak at the center of rheasilvia is 20 to 25 kilometres 1216 mi high and 180 kilometres 110 mi wide68 and is possibly a result of a planetary-scale impact71
+
+several old degraded craters rival rheasilvia and veneneia in size though none are quite so large they include feralia planitia shown at right which is 270 km across72 more-recent sharper craters range up to 158 kilometres 98 mi varronilla and 196 kilometres 122 mi postumia73
+
+the snowman craters is an informal name given to a group of three adjacent craters in vestas northern hemisphere their official names from largest to smallest west to east are marcia calpurnia and minucia marcia is the youngest and cross-cuts calpurnia minucia is the oldest62
+
+the majority of the equatorial region of vesta is sculpted by a series of concentric troughs the largest is named divalia fossa 1020 km wide 465 km long despite the fact that vesta is a one-seventh the size of the moon divalia fossa dwarfs the grand canyon a second series inclined to the equator is found further north the largest of the northern troughs is named saturnalia fossa  40 km wide  370 km long these troughs are thought to be large-scale graben resulting from the impacts that created rheasilvia and veneneia craters respectively they are some of the longest chasms in the solar system nearly as long as ithaca chasma on tethys the troughs may be graben that formed after another asteroid collided with vesta a process that can happen only in a body that like vesta is differentiated74 vestas differentiation is one of the reasons why scientists consider it a protoplanet75
+
+compositional information from the visible and infrared spectrometer vir gamma-ray and neutron detector grand and framing camera fc all indicate that the majority of the surface composition of vesta is consistent with the composition of the howardite eucrite and diogenite meteorites767778 the rheasilvia region is richest in diogenite consistent with the rheasilvia-forming impact excavating material from deeper within vesta the presence of olivine within the rheasilvia region would also be consistent with excavation of mantle material however olivine has only been detected in localized regions of the northern hemisphere not within rheasilvia31 the origin of this olivine is currently uncertain
+
+pitted terrain has been observed in four craters on vesta marcia cornelia numisia and licinia79 the formation of the pitted terrain is proposed to be degassing of impact-heated volatile-bearing material along with the pitted terrain curvilinear gullies are found in marcia and cornelia craters the curvilinear gullies end in lobate deposits which are sometimes covered by pitted terrain and are proposed to form by the transient flow of liquid water after buried deposits of ice were melted by the heat of the impacts63 hydrated materials have also been detected many of which are associated with areas of dark material80 consequently dark material is thought to be largely composed of carbonaceous chondrite which was deposited on the surface by impacts carbonaceous chondrites are comparatively rich in mineralogically bound oh78
+
+there is a large collection of potential samples from vesta accessible to scientists in the form of over 1200 hed meteorites vestan achondrites giving insight into vestas geologic history and structure nasa infrared telescope facility nasa irtf studies of asteroid 237442 1999 ta10 suggest that it originated from deeper within vesta than the hed meteorites81
+
+vesta is thought to consist of a metallic ironnickel core 214226 km in diameter7 an overlying rocky olivine mantle with a surface crust from the first appearance of calciumaluminium-rich inclusions the first solid matter in the solar system forming about 4567 billion years ago a likely time line is as follows8283848586
+
+vesta is the only known intact asteroid that has been resurfaced in this manner because of this some scientists refer to vesta as a protoplanet87 however the presence of iron meteorites and achondritic meteorite classes without identified parent bodies indicates that there once were other differentiated planetesimals with igneous histories which have since been shattered by impacts
+
+on the basis of the sizes of v-type asteroids thought to be pieces of vestas crust ejected during large impacts and the depth of rheasilvia crater see below the crust is thought to be roughly 10 kilometres 6 mi thick89
+findings from the dawn spacecraft have found evidence that the troughs that wrap around vesta could be graben formed by impact-induced faulting see troughs section above meaning that vesta has more complex geology than other asteroids vesta could have been classified as a dwarf planet if it had retained a spherical shape and it has other qualities that lead to the thought it could be a protoplanet the only thing that knocked it out of the category of a dwarf planet was the formation of two large impact basins at its southern pole68 at the time of these impacts vesta was not warm and plastic enough to return to a shape in hydrostatic equilibrium
+
+vestas surface is covered by regolith distinct from that found on the moon or asteroids such as itokawa this is because space weathering acts differently vestas surface shows no significant trace of nanophase iron because the impact speeds on vesta are too low to make rock melting and vaporization an appreciable process instead regolith evolution is dominated by brecciation and subsequent mixing of bright and dark components90 the dark component is probably due to the infall of carbonaceous material whereas the bright component is the original vesta basaltic soil91
+
+some small solar system bodies are suspected to be fragments of vesta caused by impacts the vestian asteroids and hed meteorites are examples the v-type asteroid 1929 kollaa has been determined to have a composition akin to cumulate eucrite meteorites indicating its origin deep within vestas crust27
+
+vesta is currently one of only six identified solar system bodies of which we have physical samples coming from a number of meteorites suspected to be vestan fragments it is estimated that 1 out of 16 meteorites originated from vesta92 the other identified solar system samples are from earth itself meteorites from mars meteorites from the moon and samples returned from the moon the comet wild 2 and the asteroid 25143 itokawa28h
+
+in 1981 a proposal for an asteroid mission was submitted to the european space agency esa named the asteroidal gravity optical and radar analysis agora this spacecraft was to launch some time in 19901994 and perform two flybys of large asteroids the preferred target for this mission was vesta agora would reach the asteroid belt either by a gravitational slingshot trajectory past mars or by means of a small ion engine however the proposal was refused by the esa a joint nasaesa asteroid mission was then drawn up for a multiple asteroid orbiter with solar electric propulsion maosep with one of the mission profiles including an orbit of vesta nasa indicated they were not interested in an asteroid mission instead the esa set up a technological study of a spacecraft with an ion drive other missions to the asteroid belt were proposed in the 1980s by france germany italy and the united states but none were approved93 exploration of vesta by fly-by and impacting penetrator was the second main target of the first plan of the multi-aimed soviet vesta mission developed in cooperation with european countries for realisation in 19911994 but canceled due to the soviet union disbanding
+
+in the early 1990s nasa initiated the discovery program which was intended to be a series of low-cost scientific missions in 1996 the programs study team recommended a mission to explore the asteroid belt using a spacecraft with an ion engine as a high priority funding for this program remained problematic for several years but by 2004 the dawn vehicle had passed its critical design review94 and construction proceeded
+
+it launched on 27 september 2007 as the first space mission to vesta on 3 may 2011 dawn acquired its first targeting image 12 million kilometers from vesta95 on 16 july 2011 nasa confirmed that it received telemetry from dawn indicating that the spacecraft successfully entered vestas orbit96 it was scheduled to orbit vesta for one year until july 201297 dawns arrival coincided with late summer in the southern hemisphere of vesta with the large crater at vestas south pole rheasilvia in sunlight because a season on vesta lasts eleven months the northern hemisphere including anticipated compression fractures opposite the crater would become visible to dawns cameras before it left orbit98 dawn left orbit around vesta on 4 september 2012 1126 pm pdt to travel to ceres99
+
+nasadlr released imagery and summary information from a survey orbit two high-altitude orbits 6070 mpixel and a low-altitude mapping orbit 20 mpixel including digital terrain models videos and atlases100101102103104105 scientists also used dawn to calculate vestas precise mass and gravity field the subsequent determination of the j2 component yielded a core diameter estimate of about 220 km assuming a crustal density similar to that of the hed100
+
+dawn data can be accessed by the public at the ucla website106
+
+albedo and spectral maps of 4 vesta as determined from hubble space telescope images from november 1994
+
+elevation map of 4 vesta as determined from hubble space telescope images of may 1996
+
+elevation diagram of 4 vesta as determined from hubble space telescope images of may 1996 viewed from the south-east showing rheasilvia crater at the south pole and feralia planitia near the equator
+
+vesta seen by the hubble space telescope in may 2007
+
+vesta comes into view as the dawn spacecraft approaches and enters orbit
+
+vesta from 100000 km1 july 2011
+
+vesta from 41000 km9 july 2011
+
+in orbit at 16000 km17 july 2011
+
+in orbit from 10500 km18 july 2011
+
+the northern hemisphere from 5200 km23 july 2011
+
+in orbit from 5200 km24 july 2011
+
+in orbit from 3700 km31 july 2011
+
+full rotation1 august 2011
+
+cratered terrain with hills and ridges6 august 2011
+
+densely cratered terrain near terminator6 august 2011
+
+vestan craters in various states of degradation with troughs at bottom6 august 2011
+
+hill shaded central mound at the south pole of vesta2 february 2015
+
+detailed images retrieved during the high-altitude 6070 mpixel and low-altitude 20 mpixel mapping orbits are available on the dawn mission website of jplnasa
+
+its size and unusually bright surface make vesta the brightest asteroid and it is occasionally visible to the naked eye from dark skies without light pollution in may and june 2007 vesta reached a peak magnitude of 54 the brightest since 1989107 at that time opposition and perihelion were only a few weeks apart108 it was brighter still at its 22 june 2018 opposition reaching a magnitude of 53109
+less favorable oppositions during late autumn 2008 in the northern hemisphere still had vesta at a magnitude of from 65 to 73110 even when in conjunction with the sun vesta will have a magnitude around 85 thus from a pollution-free sky it can be observed with binoculars even at elongations much smaller than near opposition110
+
+in 2010 vesta reached opposition in the constellation of leo on the night of 1718 february at about magnitude 61111 a brightness that makes it visible in binocular range but generally not for the naked eye under perfect dark sky conditions where all light pollution is absent it might be visible to an experienced observer without the use of a telescope or binoculars vesta came to opposition again on 5 august 2011 in the constellation of capricornus at about magnitude 56111112
+
+vesta was at opposition again on 9 december 2012113 according to sky and telescope magazine this year vesta came within about 6 degrees of 1 ceres during the winter of 2012 and spring 2013114 vesta orbits the sun in 363 years and ceres in 46 years so every 17 years vesta overtakes ceres the last overtaking was in 1996114 on december 1 2012 vesta had a magnitude of 66 but decreasing to 84 by may 1 2013114
+
+ceres and vesta came within one degree of each other in the night sky in july 2014114
+
+solar system  local interstellar cloud  local bubble  gould belt  orion arm  milky way  milky way subgroup  local group  local sheet  virgo supercluster  laniakea supercluster  observable universe  universeeach arrow  may be read as within or part of
+

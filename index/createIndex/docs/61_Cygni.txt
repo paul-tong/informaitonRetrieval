@@ -1,0 +1,89 @@
+61_Cygni
+
+
+
+
+gj 820 ab
+struve 2758 ab
+ads 14636 ab
+v1803 cyg ab
+gctp 507700 ab
+14
+
+v v1803 cyg
+hd 201091
+hip 104214
+hr 8085
+bd384343
+lhs 62
+sao 70919
+4
+
+hd 201092
+hip 104217
+hr 8086
+bd384344
+lhs 63
+
+61 cygni ˈsɪɡni15 is a binary star system in the constellation cygnus consisting of a pair of k-type dwarf stars that orbit each other in a period of about 659 years of apparent magnitude 520 and 605 respectively they can be seen with binoculars in city skies or with the naked eye in rural areas without light pollution
+
+61 cygni first attracted the attention of astronomers when its large proper motion was first demonstrated by giuseppe piazzi in 1804 in 1838 friedrich bessel measured its distance from earth at about 104 light-years very close to the actual value of about 114 light-years this was the first distance estimate for any star other than the sun and first star to have its stellar parallax measured among all stars or stellar systems listed in the modern hipparcos catalogue 61 cygni has the seventh-highest proper motion and the highest among all visible stars or systems16
+
+over the course of the twentieth century several different astronomers reported evidence of a massive planet orbiting one of the two stars but recent high-precision radial velocity observations have shown that all such claims were unfounded17 no planets have been confirmed in this stellar system to date
+
+61 cygni is relatively dim so it does not appear on ancient star maps nor is it given a name in western18 or chinese systems19
+
+the name 61 cygni is part of the flamsteed designation assigned to stars according to this designation scheme devised by john flamsteed to catalog his observations stars of a particular constellation are numbered in the order of their right ascension not in greek letters as the bayer designation does2021 the star does not appear under that name in flamsteeds historia coelestis britannica22 although it has been stated by him that 61 cygni actually corresponds to what he referred to as 85 cygni in the 1712 edition23 it has also been called bessels star or piazzis flying star2425
+
+the first well recorded observation of the star system using optical instruments was made by james bradley on 25 september 1753 when he noticed that it was a double star william herschel began systematic observations of 61 cygni as part of a wider study of binary stars his observations led to the conclusion that binary stars were separated enough that they would show different movements in parallax over the year and hoped to use this as a way to measure the distance to the stars26
+
+in 1792 giuseppe piazzi noticed the high proper motion when he compared his own observations of 61 cygni with those of bradley made 40 years earlier this led to considerable interest in 61 cygni by contemporary astronomers and its continual observation since that date26 piazzis repeated measurements led to a definitive value of its motion which he published in 18042728 it was in this record he christened the system as the flying star29
+
+piazzi noted that this motion meant that it was probably one of the closest stars and suggested it would be a prime candidate for an attempt to determine its distance through parallax measurements along with two other possibilities delta eridani and mu cassiopeiae28
+
+a number of astronomers soon took up the task including attempts by françois arago and claude-louis mathieu in 1812 who recorded the parallax at 500 milliarcseconds mas and christian heinrich friedrich peters used aragos data to calculate a value of 550 mas peters calculated a better value based on observations made by bernhard von lindenau at seeburg between 1812 and 1814 he calculated it to be 470 510 mas von lindenau had already noted that he had seen no parallax and as friedrich georg wilhelm von struve pointed out after his own test series between 1818 and 1821 all of these numbers are more accurate than the accuracy of the instrument used26
+
+friedrich wilhelm bessel made a notable contribution in 1812 when he used a different method to measure distance assuming the orbital period of the two stars in the binary to be 400 years he estimated the distance between the two this would require and then measured the angular distance between the stars this led to a value of 460 mas he then followed this up with direct parallax measurements in a series of observations between 1815 and 1816 comparing it with six other stars the two sets of measurements produced values of 760 and 1320 mas all of these estimates like earlier attempts by others retained inaccuracies greater than the measurements26
+
+when joseph von fraunhofer invented a new type of heliometer bessel carried out another set of measurements using this device in 1837 and 1838 at königsberg he published his findings in 1838 with a value of 3690191 mas to a and 2605188 to b and estimated the center point to be at 3136136 this corresponds to a distance of about 600000 astronomical units or about 104 light-years this was the first direct and reliable measurement of the distance to a star other than the sun2630 his measurement was published only shortly before similar parallax measurements of vega by friedrich georg wilhelm von struve and alpha centauri by thomas henderson that same year31 bessel continued to make additional measurements at königsberg publishing a total of four complete observational runs the last in 1868 the best of these placed the center point at 3602 121 mas made during observations in 184926 this is close to the currently accepted value of 28718 mas yielding 1136 light-years32
+
+only a few years after bessels measurement in 1842 friedrich wilhelm argelander noted that groombridge 1830 had an even larger proper motion and 61 cygni became the second highest known it was later moved further down the list by kapteyns star and barnards star 61 cygni has the seventh highest proper motion of all stellar systems listed in the modern hipparcos catalogue but retains the title of highest proper motion among visible stars16
+
+due to the wide angular separation between 61 cygni a and b and the correspondingly slow orbital motion it was initially unclear whether the two stars in the 61 cygni system were a  gravitationally bound system or simply a juxtaposition of stars33 von struve first argued for its status as a binary in 1830 but the matter remained open33
+
+however by 1917 refined measured parallax differences demonstrated that the separation was significantly less34 the binary nature of this system was clear by 1934 and orbital elements were published35
+
+in 1911 benjamin boss published data indicating that the 61 cygni system was a member of a comoving group of stars36 this group containing 61 cygni was later expanded to include 26 potential members possible members include beta columbae pi mensae 14 tauri and 68 virginis the space velocities of this group of stars range from 105 to 114 kms relative to the sun3738
+
+observations taken by planet search programs show that both components have strong linear trends in the radial velocity measurements39
+
+an observer using 750 binoculars can find 61 cygni two binocular fields southeast of the bright star deneb the angular separation of the two stars is slightly greater than the angular size of saturn 162040 so under ideal viewing conditions the binary system can be resolved by a telescope with a 7 mm aperturenote 1 this is
+well within the capability for aperture of typical binoculars though to resolve the binary these need a steady mount and some 10x magnification with a separation of 28 arc-seconds between the component stars 10 magnification would give an apparent separation of 280 arc-seconds above the generally regarded eye resolution limit of 4 arc-minutes or 240 arc-seconds41
+
+although it appears to be a single star to the naked eye 61 cygni is a widely separated binary star system composed of two k class orange main sequence stars the brighter 61 cygni a and fainter 61 cygni b which have apparent magnitudes of 52 and 61 respectively both appear to be old-disk stars4243 with an estimated age that is older than the sun the system has a net space velocity of 108 kms44 relative to the sun which results in the high proper motion across the sky45 at a distance of just over 11 light-years it is the 15th-nearest-known star system to the earth not including the sun 61 cygni a is the fourth-nearest star that is visible to the naked eye for mid-latitude northern observers after sirius epsilon eridani and procyon a8 this system will make its closest approach at about 20000 ce when the separation from the sun will be about 9 light-years44 smaller and dimmer than the sun 61 cygni a has about 70 percent of a solar mass 72 percent of its diameter and about 85 percent of its luminosity and 61 cygni b has about 63 percent of a solar mass 67 percent of its diameter and 39 percent of its luminosity46
+61 cygni as long-term stability led to it being selected as an anchor star in the morgankeenan mk classification system in 1943 serving as the  k5 v anchor point since that time47 starting in 1953 61 cygni b has been considered a k7 v standard star johnson  morgan 195348 keenan  mcneil 198949
+
+61 cygni a is a typical by draconis variable star designated as v1803 cyg while 61 cygni b is a flare type variable star named hd 201092 with their magnitudes varying 521 v and 603 respectively50 the two stars orbit their common barycenter in a period of 659 years with a mean separation of about 84 au84 times the separation between the earth and the sun the relatively large orbital eccentricity of 048 means that the two stars are separated by about 44 au at periapsis and 124 au at apoapsisnote 2 the leisurely orbit of the pair has made it difficult to pin down their respective masses and the accuracy of these values remain somewhat controversial in the future this issue may be resolved through the use of asteroseismology9 61 cygni a has about 11 more mass than 61 cygni b8
+
+the system has an activity cycle that is much more pronounced than the solar sunspot cycle this is a complex activity cycle that varies with a period of about 7517 years5152 the starspot activity combined with rotation and chromospheric activity is a characteristic of a by draconis variable because of differential rotation this stars surface rotation period varies by latitude from 27 to 45 days with an average period of 35 days12
+
+the outflow of the stellar wind from component a produces a bubble within the local interstellar cloud along the direction of the stars motion within the milky way this extends out to a distance of 30 au or roughly the orbital distance of neptune from the sun this is lower than the separation between the two components of 61 cygni and so the two most likely do not share a common atmosphere the compactness of the astrosphere is likely due to the low mass outflow and the relatively high velocity through the local interstellar medium53
+
+61 cygni b displays a more chaotic pattern of variability than a with significant short-term flares there is an 117-year periodicity to the overall activity cycle of b52 both stars exhibit stellar flare activity but the chromosphere of b is 25 more active than for 61 cygni a54 as a result of differential rotation the period of rotation varies by latitude from 32 to 47 days with an average period of 38 days12
+
+there is some disagreement over the evolutionary age of this system kinematic data gives an age estimate of about 10 gyr45 gyrochronology or the age determination of a star based on its rotation and color results in an average age of 20 02 gyr the ages based on chromospheric activity for a and b are 236 gyr and 375 gyr respectively finally the age estimates using the isochrone method which involve fitting the stars to evolutionary models yield upper limits of 044 gyr and 068 gyr55 however a 2008 evolutionary model using the cesam2k code from the côte dazur observatory gives an age estimate of 60 10 gyr for the pair9
+
+on different occasions it has been claimed that 61 cygni might have unseen low-mass companions planets or a brown dwarf kaj strand of the sproul observatory under the direction of peter van de kamp made the first such claim in 1942 using observations to detect tiny but systematic variations in the orbital motions of 61 cygni a and b these perturbations suggested that a third body of about 16 jupiter masses must be orbiting 61 cygni a56 reports of this third body served as inspiration for hal clements 1953 science fiction novel mission of gravity57 in 1957 van de kamp narrowed his uncertainties claiming that the object had a mass of eight times that of jupiter a calculated orbital period of 48 years and a semi-major axis of 24 au where 1 au is the average distance from the earth to the sun 58 in 1977 soviet astronomers at the pulkovo observatory near saint petersburg suggested that the system included three planets two giant planets with six and twelve jupiter masses around 61 cyg a59 and one giant planet with seven jupiter masses around 61 cygni b60
+
+in 1978 wulff-dieter heintz of the sproul observatory proved that these claims were spurious as they were unable to detect any evidence of such motion down to six percent of the suns massequivalent to about 60 times the mass of jupiter6162
+
+the habitable zone for 61 cygni a defined as the locations where liquid water could be present on an earth-like planet is 026058 au for 61 cygni b the habitable zone is 024050 au63
+
+since no certain planetary object has been detected around either star so far mcdonald observatory team has set limits to the presence of one or more planets around 61 cygni a and 61 cygni b with masses between 007 and 21 jupiter masses and average separations spanning between 005 and 52 au64
+
+because of the proximity of this system to the sun it is a frequent target of interest for astronomers both stars were selected by nasa as tier 1 targets for the proposed optical space interferometry mission65 this mission is potentially capable of detecting planets with as little as 3 times the mass of the earth at an orbital distance of 2 au from the star
+
+measurements of this system appeared to have detected an excess of far infrared radiation beyond what is emitted by the stars such an excess is sometimes associated with a disk of dust but in this case it lies sufficiently close to one or both of the stars that it has not been resolved with a telescope66 a 2011 study using the keck interferometer nuller failed to detect any exozodiacal dust around 61 cygni a67
+
+coordinates  21h 06m 539434s 38 44 57898
+

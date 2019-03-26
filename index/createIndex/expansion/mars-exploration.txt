@@ -1,0 +1,9 @@
+mission
+surface
+martian
+spacecraft
+earth
+lander
+orbiter
+planet
+water
