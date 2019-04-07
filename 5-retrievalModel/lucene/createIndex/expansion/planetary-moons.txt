@@ -1,0 +1,8 @@
+jupiter
+satellites
+lunar
+earth
+solar
+orbit
+surface
+planet

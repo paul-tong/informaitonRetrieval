@@ -1,0 +1,8 @@
+orbit
+earth
+launch
+natural
+geostationary
+orbits
+communications
+astronomy

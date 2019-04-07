@@ -1,0 +1,104 @@
+======================================================
+K(top ranked documents) = 10, n(additional terms) = 8
+
+======================================================
+Robotic space missions:
+spacecraft
+propulsion
+earth
+system
+exploration
+moon
+solar
+orbit
+
+spacecraft
+exploration
+propulsion
+moon
+earth
+solar
+mars
+orbit
+
+mars-exploration:
+mission
+surface
+martian
+spacecraft
+earth
+lander
+orbiter
+planet
+
+mission
+surface
+earth
+orbiter
+martian
+spacecraft
+lander
+space
+
+unmanned spacecraft:
+space
+orbit
+system
+soviet
+vostok
+propulsion
+launch
+robotic
+
+lunar
+moon
+space
+landing
+soyuz
+mission
+soviet
+orbit
+
+Planetary moons:
+jupiter
+satellites
+natural
+solar
+planet
+orbit
+uranus
+mass
+
+jupiter
+satellites
+lunar
+earth
+solar
+orbit
+surface
+planet
+
+Satellites in Space:
+orbit
+earth
+system
+communications
+navigation
+radio
+launched
+united
+
+orbit
+earth
+launch
+natural
+geostationary
+orbits
+communications
+astronomy
+
+======================================================
+General Process:
+1) for each query, get 10 top ranked documents with default lucene score
+2) count the term frequency of these 10 documents, select 50 terms with highest frequency
+3) manully select expansion terms from these 50 terms(remove stop words and duplicated words in original query)
